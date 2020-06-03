@@ -1,6 +1,6 @@
 # Memories
 
-An audio/visual memory journal that allows you to catalog your experiences across Colorado.
+An audio/visual memory journal that allows you to catalog your experiences across Colorado. This app has been styled for mobile devices only. 
 
 ## Goals and Objectives
 
